@@ -12,6 +12,6 @@ object Main {
        """.stripMargin.split('\n').foreach(logger.info(_))
   }
 
-  MinecraftBot.test
+  MinecraftBot.hoge
 
 }
